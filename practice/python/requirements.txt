@@ -1,0 +1,26 @@
+Python memory model
+processes vs threads
+asyncio
+concurrency
+multiprocessing
+GIL
+profiling
+testing
+type systems
+packaging
+dependency management
+error handling
+logging
+clean architecture
+design patterns
+performance
+განსაკუთრებით:
+აიღე შენი ჩვეულებრივი FastAPI service და გააკეთე:
+
+synchronous version
+async version
+concurrent version
+load test
+profile
+bottleneck-ის პოვნა
+optimization
